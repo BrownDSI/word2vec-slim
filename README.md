@@ -1,4 +1,6 @@
-#GoogleNews-vectors-negative300-SLIM
+# GoogleNews-vectors-negative300-SLIM
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BrownDSI/word2vec-slim/master)
 
 tl;dr: Filter down Google News word2vec model from 3 million words to 300k, by crossing it with English dictionaries.
 
