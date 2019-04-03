@@ -1,0 +1,9 @@
+name: word2vec-slim
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - tensorflow
+  - matplotlib
+  - gensim
+  - numpy
